@@ -1,0 +1,2 @@
+# Production_Traceability_App
+The request was to create a solution that would store and connect production data inputs of 2 sequential production stages. Clean and accessible UI for day-to-day production workers.
